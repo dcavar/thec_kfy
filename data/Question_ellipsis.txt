@@ -1,0 +1,28 @@
+# Question_ellipsis.txt
+# (C) 2023 by Natasha Singh <singhnat@iu.edu>
+# language: kfy
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+# The below data was reviewed by 4 other native speakers.
+
+
+
+
+
+ना,  ___ विदेश नीतिक बारुम  ___।
+----
+ना, प्रत्येक उम्मीदवार विदेश नीतिक बारुम बात करल।
+B: के प्रत्येक उम्मीदवार वित्त नीतिक बारुम बात करल?
+
+
+___  यूरोपुम शरण प्राप्त करण  ___।
+----
+शरणार्थी यूरोपुम शरण प्राप्त करण चाहनी।
+B: शरणार्थी के करण चाहनी?
+
+
+तुमुगुं अनदेखा करण लिजी  ___।
+----
+तुमुगुं अनदेखा करण लिजी मैं शर्मिंदा छूँ।
+B: तुम के बात लिजी शर्मिंदा छा?
+
