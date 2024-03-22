@@ -10,7 +10,8 @@ Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format
 
 
 ## Maintainer
-- 
+
+- Natasha Singh
 - [Damir Cavar]
 
 
